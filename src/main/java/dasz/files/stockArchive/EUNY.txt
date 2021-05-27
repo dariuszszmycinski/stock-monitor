@@ -1,1 +1,18 @@
 EUNY, price= 22.08$, total= 14560.35zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14554.02zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14548.09zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14548.09zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14548.09zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14546.91zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14546.91zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14547.7zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14550.07zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14550.86zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 14546.91zł pe= 8.64, pb= 1.05 2021-05-27
+EUNY, price= 22.08$, total= 145500.7zł pe= 8.64, pb= 1.05 totalGrowth= 1140.43% annualGrowth= 1415.84% 2021-05-27
+EUNY, price= 22.08$, total= 14551.65zł pe= 8.64, pb= 1.05 totalGrowth= 24.06% annualGrowth= 29.87% 2021-05-27
+EUNY, price= 22.08$, total= 14542.96zł pe= 8.64, pb= 1.05 totalGrowth= 23.98% annualGrowth= 29.77% 2021-05-27
+EUNY, price= 22.08$, total= 14526.36zł pe= 8.64, pb= 1.05 totalGrowth= 23.84% annualGrowth= 29.6% 2021-05-27
+EUNY, price= 22.08$, total= 14526.36zł pe= 8.64, pb= 1.05 totalGrowth= 23.84% annualGrowth= 29.6% profit= 2796.49 2021-05-27
+EUNY, price= 22.08$, total= 14520.43zł pe= 8.64, pb= 1.05 totalGrowth= 23.79% annualGrowth= 29.54% profit= 1.24zł 2021-05-27
+EUNY, price= 22.08$, total= 14520.43zł pe= 8.64, pb= 1.05 totalGrowth= 23.79% annualGrowth= 29.54% profit= 2790.56zł 2021-05-27
