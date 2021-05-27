@@ -1,0 +1,8 @@
+BETA40TR, price= 67.86zł, total= 10314.72zł pe= 17.626, pb= 2.237
+EUNY, price= 22.08$, total= 14560.35zł pe= 8.64, pb= 1.05
+SGBS, price= 150.07€, total= 6748.8zł
+ITKY, price= 12.1$, total= 5527.47zł pe= 7.12, pb= 0.93
+5MVL, price= 47.66$, total= 14221.93zł pe= 11.84, pb= 1.05
+$ -> zł = 3.684
+€ -> zł = 4.4971
+Total wallet value: 51373.27zł
