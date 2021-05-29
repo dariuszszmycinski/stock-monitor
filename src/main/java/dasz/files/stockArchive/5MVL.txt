@@ -16,3 +16,10 @@
 5MVL, price= 47.66$, total= 14188.73zł pe= 11.84, pb= 1.05 totalGrowth= -0.64% annualGrowth= -29.2% profit= -90.76000000000022 2021-05-27
 5MVL, price= 47.66$, total= 14182.94zł pe= 11.84, pb= 1.05 totalGrowth= -0.68% annualGrowth= -31.02% profit= 0.99zł 2021-05-27
 5MVL, price= 47.66$, total= 14182.94zł pe= 11.84, pb= 1.05 totalGrowth= -0.68% annualGrowth= -31.02% profit= -96.55zł 2021-05-27
+5MVL, price= 47.66$, total= 14182.94zł pe= 11.84, pb= 1.05 totalGrowth= -0.68% annualGrowth= -31.02% profit= -96.55zł 2021-05-27
+5MVL, price= 47.66$, total= 14208.04zł pe= 11.79, pb= 1.06 totalGrowth= -0.5% annualGrowth= -22.81% profit= -71.45zł 2021-05-27
+5MVL, price= 47.72$, total= 14255.3zł pe= 11.79, pb= 1.06 totalGrowth= -0.17% annualGrowth= -6.89% profit= -24.19zł 2021-05-28
+5MVL, price= 47.72$ pe= 11.79, pb= 1.06 total= 14215.5 totalGrowth= -0.45% annualGrowth= -18.25% profit= -63.99zł 2021-05-28
+5MVL, price= 47.72$ pe= 11.79, pb= 1.06 total= 14214.69zł, totalGrowth= -0.45% annualGrowth= -18.25% profit= -64.8zł 2021-05-28
+5MVL, price= 47.72$ pe= 10.53, pb= 1.03 total= 14238.18zł, totalGrowth= -0.29% annualGrowth= -11.76% profit= -41.31zł 2021-05-28
+5MVL, price= 47.91$ pe= 10.53, pb= 1.03 total= 14268.96zł, totalGrowth= -0.07% annualGrowth= -2.56% profit= -10.53zł 2021-05-29

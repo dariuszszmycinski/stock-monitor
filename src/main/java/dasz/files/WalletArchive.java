@@ -2,7 +2,7 @@ package dasz.files;
 
 import dasz.model.currency.EurToPln;
 import dasz.model.currency.UsdToPln;
-import dasz.model.stock.Stock;
+import dasz.model.stock.WalletStock;
 import dasz.model.wallet.Wallet;
 
 import java.io.FileWriter;
@@ -15,7 +15,7 @@ public class WalletArchive {
         String fileToWrite = "src/main/java/dasz/files/walletArchive/wallet "+ LocalDate.now() +".txt";
         try {
             FileWriter myWriter = new FileWriter(fileToWrite);
-            for (Stock s: wallet.getStocks()) {
+            for (WalletStock s: wallet.getStocks()) {
                 myWriter.write(s.toString()+"\n");
                 saveStockArchive(s);
             }
@@ -30,7 +30,7 @@ public class WalletArchive {
         }
     }
 
-    private static void saveStockArchive(Stock stock){
+    private static void saveStockArchive(WalletStock stock){
         String fileToWrite = "src/main/java/dasz/files/stockArchive/"+stock.getTicket()+".txt";
         try {
             FileWriter myWriter = new FileWriter(fileToWrite, true);
