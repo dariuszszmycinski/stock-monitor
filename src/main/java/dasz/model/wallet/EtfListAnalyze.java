@@ -45,6 +45,7 @@ public class EtfListAnalyze {
 
     public void printAll() {
         stocks.sort(Comparator.comparing(Stock::getPe));
+        System.out.println("-----Sorted-----");
         for (Stock s : stocks) {
             System.out.println(s);
         }

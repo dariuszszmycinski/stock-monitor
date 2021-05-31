@@ -1,14 +1,16 @@
 package dasz.model.stock;
 
-import dasz.model.currency.UsdToPln;
+import dasz.model.currency.Currency;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+
 import java.io.IOException;
 
 public class Ishares implements Stock {
     private String ticket;
     private int isharesId;
-    private double priceUSD;
+    private double price;
+    private Currency currency;
     private double currentPricePLN;
     private double pe;
     private double pb;
@@ -18,29 +20,41 @@ public class Ishares implements Stock {
         this.isharesId = isharesId;
         try {
             Document doc = Jsoup.connect("https://www.ishares.com/uk/individual/en/products/" + isharesId + "/?siteEntryPassthrough=true").get();
-            try{
+            try {
+                String pricePath = doc.select("#fundheaderTabs > div > div > div > ul > li.navAmount > span.header-nav-data").toString();
+                String pricePathNoCurrency = null;
+                if (pricePath.contains("USD")) {
+                    this.currency = Currency.USD;
+                    pricePathNoCurrency = pricePath.replace("USD", "");
+                } else if (pricePath.contains("EUR")) {
+                    this.currency = Currency.EUR;
+                    pricePathNoCurrency = pricePath.replace("EUR", "");
+                } else if (pricePath.contains("GBP")) {
+                    this.currency = Currency.GBP;
+                    pricePathNoCurrency = pricePath.replace("GBP", "");
+                }
                 double pe = Double.parseDouble(doc.select("#fundamentalsAndRisk > div > div.float-left.in-left.col-priceEarnings > span.data").toString().replace("<span class=\"data\"> ", "").replace(" </span>", ""));
                 double pb = Double.parseDouble(doc.select("#fundamentalsAndRisk > div > div.float-left.in-right.col-priceBook > span.data").toString().replace("<span class=\"data\"> ", "").replace(" </span>", ""));
                 this.pb = pb;
                 this.pe = pe;
-            }catch (NumberFormatException e){
+                double price = Double.parseDouble(pricePathNoCurrency.replace("<span class=\"header-nav-data\">  ", "").replace(" </span>", ""));
+                this.price = price;
+
+            } catch (NumberFormatException e) {
                 this.pb = 0;
                 this.pe = 0;
             }
-            //dodać przelicznik eur na usd i rozróżnienie walut, teraz zamieniam znak na $
-            double priceUSD = Double.parseDouble(doc.select("#fundheaderTabs > div > div > div > ul > li.navAmount > span.header-nav-data").toString().replace("SEK","USD").replace("GBP","USD").replace("EUR","USD").replace("<span class=\"header-nav-data\"> USD ", "").replace(" </span>", ""));
-            this.priceUSD = priceUSD;
+
         } catch (IOException e) {
             System.err.println(ticket);
             e.printStackTrace();
         }
-        this.currentPricePLN = (double) Math.round((UsdToPln.get() * priceUSD) * 100) / 100;
+        this.currentPricePLN = (double) Math.round((currency.getValue() * price) * 100) / 100;
     }
-
 
     @Override
     public String toString() {
-        return ticket + ", price= " + priceUSD + "$ pe= " + pe + ", pb= " + pb;
+        return ticket + ", price= " + price + currency.getSymbol() + " pe= " + pe + ", pb= " + pb;
     }
 
     public String getTicket() {
