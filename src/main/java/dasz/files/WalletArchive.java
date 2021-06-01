@@ -1,6 +1,7 @@
 package dasz.files;
 
 import dasz.model.currency.EurToPln;
+import dasz.model.currency.GbpToPln;
 import dasz.model.currency.UsdToPln;
 import dasz.model.stock.WalletStock;
 import dasz.model.wallet.Wallet;
@@ -21,6 +22,7 @@ public class WalletArchive {
             }
             myWriter.write("$ -> zł = " + UsdToPln.get()+"\n");
             myWriter.write("€ -> zł = " + EurToPln.get()+"\n");
+            myWriter.write("£ -> zł = " + GbpToPln.get()+"\n");
             myWriter.write(wallet.getWalletTotal());
             myWriter.close();
             System.out.println("Successfully wrote to the files.");

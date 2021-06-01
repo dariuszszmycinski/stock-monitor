@@ -4,6 +4,7 @@ import dasz.files.WalletArchive;
 import dasz.model.currency.EurToPln;
 import dasz.model.currency.GbpToPln;
 import dasz.model.currency.UsdToPln;
+import dasz.model.stock.Ishares;
 import dasz.model.wallet.EtfListAnalyze;
 import dasz.model.wallet.Wallet;
 
@@ -22,16 +23,14 @@ public class Main {
     private static class Analyze{
         public static void main(String[] args) {
             EtfListAnalyze etfListAnalyze = new EtfListAnalyze(new File("src/main/java/dasz/files/walletCurrent/etfList.txt"));
-            System.err.println("Sorted:");
             etfListAnalyze.printAll();
         }
     }
 
     private static class Test{
         public static void main(String[] args) {
-            EtfListAnalyze etfListAnalyze = new EtfListAnalyze(new File("src/main/java/dasz/files/walletCurrent/test.txt"));
-
-            etfListAnalyze.printAll();
+            Ishares ishares = new Ishares("FRA:2B76", 284219);
+            System.out.println(ishares);
         }
     }
 }

@@ -30,6 +30,15 @@ public class EtfListAnalyze {
                     case "JustEtf":
                         stocks.add(new JustEtf(line[1], line[2]));
                         break;
+                    case "Xtrackers":
+                        Xtrackers xtrackers;
+                        if (line.length==4){
+                            xtrackers = new Xtrackers(line[1], line[2], line[3]);
+                        }else {
+                            xtrackers = new Xtrackers(line[1], line[2]);
+                        }
+                        stocks.add(xtrackers);
+                        break;
                     default:
                         System.err.println(line[0]+"Wrong stock type in etfList.txt file.");
                 }
