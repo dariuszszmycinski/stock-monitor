@@ -20,9 +20,7 @@ public class EtfListAnalyze {
                 String[] line = scanner.nextLine().split(";");
                 switch (line[0]) {
                     case "Ishares":
-                        Ishares ishares = new Ishares(line[1], Integer.parseInt(line[2]));
-                        System.out.println(ishares);
-                        stocks.add(ishares);
+                        stocks.add(new Ishares(line[1], Integer.parseInt(line[2])));
                         break;
                     case "Beta40Tr":
                         stocks.add(new Beta40Tr());
@@ -38,6 +36,9 @@ public class EtfListAnalyze {
                             xtrackers = new Xtrackers(line[1], line[2]);
                         }
                         stocks.add(xtrackers);
+                        break;
+                    case "SPDR":
+                        stocks.add(new Spdr(line[1], line[2]));
                         break;
                     default:
                         System.err.println(line[0]+"Wrong stock type in etfList.txt file.");

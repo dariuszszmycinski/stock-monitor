@@ -50,6 +50,7 @@ public class Ishares implements Stock {
             e.printStackTrace();
         }
         this.currentPricePLN = (double) Math.round((currency.getValue() * price) * 100) / 100;
+        System.out.println(this.toString());
     }
 
     @Override
