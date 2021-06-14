@@ -15,12 +15,14 @@ public class Xtrackers implements Stock {
     private double pe;
     private String peTableRow = "11";
 
+    //not working yet
     public Xtrackers(String ticket, String isin) {
         this.ticket = ticket;
         this.isin = isin;
         try {
             Document doc = Jsoup.connect("https://etf.dws.com/en-gb/AudienceSelectionPage/Accept/?culture=en-gb&returnUrl=%2Fen-gb%2F" + isin + "%2F&visitorGroup=7864d84e-9892-4df4-9d1b-0109d415b8ae").get();
             String pricePath = doc.select("#emea-pdp-container > div.col-xl-12.product-box.sticky-header-wrapper > div.row.sticky-header.half > div.col-xl-6.col-lg-12.product-box__nav.no-padding.hide-detached > div:nth-child(1) > div > p.h2").toString();
+            System.out.println(pricePath);
             String pricePathNoCurrency = null;
             if (pricePath.contains("USD")) {
                 this.currency = Currency.USD;

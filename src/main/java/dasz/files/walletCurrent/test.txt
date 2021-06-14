@@ -1,24 +1,18 @@
-SPDR;LON:EMAD SPDR MSCI EMERGING MARKETS ASIA UCITS _Azja_Akcje;spdr-msci-em-asia-ucits-etf-spya-gy
-SPDR;EPA:R2US SPDR RUSSELL2000 US SMALL CAP_USA_Akcje - małe spółki;spdr-russell-2000-us-small-cap-ucits-etf-acc-zprr-gy
-SPDR;FRA:ZPRS SPDR MSCI WORLD SMALL CAP ETF_Globalny_Akcje - małe spółki;spdr-msci-world-small-cap-ucits-etf-zprs-gy
-SPDR;FRA:ZPRV SPDR MSCI USA SMALL CAP VALUE WEIGHTED UCITS ETF_USA_Akcje - factor;spdr-msci-usa-small-cap-value-weighted-ucits-etf-zprv-gy
-SPDR;AMS:SXLE SPDR S&P U.S. ENERGY SELECT SECTOR UCITS ETF_USA_Akcje - energetyka;spdr-sp-us-energy-select-sector-ucits-etf-acc-zpde-gy
-SPDR;FRA:SPYX SPDR S&P 500 FOSSIL FUEL RESERVES FREE ETF _USA_Akcje - energetyka;spdr-msci-emerging-markets-small-cap-ucits-etf-spyx-gy
-SPDR;AMS:WMAT SPDR MSCI WORLD MATERIALS UCITS ETF_Globalny_Akcje - tematyczne;spdr-msci-world-materials-ucits-etf-wmat-na
-SPDR;FRA:SPY2 SPDR DOW JONES GLOBAL REAL ESTATE UCITS ETF_Globalny_Akcje - nieruchomości;spdr-dow-jones-global-real-estate-ucits-etf-acc-spy2-gy
-SPDR;LON:ASDV SPDR S&P PAN ASIA DIVIDEND ARISTOCRATS UCITS _Azja_Akcje - dywidendy;spdr-sp-pan-asia-dividend-aristocrats-ucits-etf-dist-zpra-gy
-SPDR;AMS:SWRD SPDR MSCI WORLD UCITS ETF USD _Globalny_Akcje;spdr-msci-world-ucits-etf-sppw-gy
-SPDR;FRA:ZPRX SPDR MSCI EUROPE SMALL CAP VALUE WEIGHTED UCITS ETF_Europa_Akcje - factor;spdr-msci-europe-small-cap-value-weighted-ucits-etf-zprx-gy
-SPDR;EPA:SMC SPDR MSCI EUR SMALL UCITS ETF C _Europa_Akcje - małe spółki;spdr-msci-europe-small-cap-ucits-etf-smc-fp
-SPDR;FRA:SPYD SPDR S&P US DIVIDEND ARISTOCRATS UCITS_USA_Akcje - dywidendy;spdr-sp-us-dividend-aristocrats-ucits-etf-dist-spyd-gy
-SPDR;FRA:SPY5 SPDR S&P 500 UCITS _USA_Akcje;spdr-sp-500-ucits-etf-dist-spy5-gy
-SPDR;FRA:ZPRP SPDR FTSE EPRA EUROPE EX UK REAL ESTATE UCITS ETF _Europa_Akcje - nieruchomości;spdr-ftse-epra-europe-ex-uk-real-estate-ucits-etf-acc-zprp-gy
-SPDR;LON:SPY4 SPDR S&P 400 US MID CAP UCITS _USA_Akcje;spdr-sp-400-us-mid-cap-ucits-etf-acc-spy4-gy
-SPDR;FRA:ZPRG SPDR GLOBAL DIVIDEND ARISTOCRATS_Globalny_Akcje - dywidendy;spdr-sp-global-dividend-aristocrats-ucits-etf-dist-zprg-gy
-SPDR;FRA:SPYG SPDR S&P UK DIVIDEND ARISTOCRATS UCITS ETF_Wielka Brytania_Akcje - dywidendy;spdr-sp-uk-dividend-aristocrats-ucits-etf-dist-spyg-gy
-SPDR;EPA:EUDV SPDR S&P EURO DIVIDEND ARISTOCRATS UCITS _Europa_Akcje - dywidendy;spdr-sp-euro-dividend-aristocrats-ucits-etf-dist-spyw-gy
-SPDR;EPA:ACWE SPDR MSCI ACWI ETF _Globalny_Akcje;spdr-msci-acwi-ucits-etf-spyy-gy
-SPDR;FRA:ZPDH SPDR S&P US HEALTH CARE SELECT SECTOR UCITS ETF _USA_Akcje - ochrona zdrowia;spdr-sp-us-health-care-select-sector-ucits-etf-acc-zpdh-gy
-SPDR;LON:GLRE SPDR DOW JONES GLOBAL REAL ESTATE UCITS_Globalny_Akcje - nieruchomości;spdr-dow-jones-global-real-estate-ucits-etf-dist-spyj-gy
-SPDR;LON:WVAL SPDR MSCI WORLD VALUE UCITS ETF_Globalny_Akcje - factor;spdr-msci-world-value-ucits-etf-acc-wval-na
-SPDR;LON:EURO SPDR MSCI EMU UCITS ETF _Europa_Akcje;spdr-msci-emu-ucits-etf-zpre-gy
+Vanguard;AMS:VVAL VANGUARD GLOBAL VALUE FACTOR UCITS _Globalny_Akcje - factor;9397
+Vanguard;AMS:VFEM VANGUARD FTSE EMERGING MARKETS UCITS_Globalny (EM)_Akcje;9507
+Vanguard;FRA:VFEA VANGUARD FTSE EMERGING MARKETS UCITS ETF USD _Globalny (EM)_Akcje;9678
+Vanguard;FRA:VJPA VANGUARD FTSE JAPAN UCITS ETF_Japonia_Akcje;9504
+Vanguard;LON:VAPU VANGUARD FTSE DEVELOPED ASIA PACIFIC EXJAPAN UCITS ETF_Azja_Akcje;9676
+Vanguard;AMS:VAPX VANGUARD FTSE DEVELOPED ASPAC EX JAPAN USD ETF _Azja_Akcje;9522
+Vanguard;LON:VUAA VANGUARD S&P 500 UCITS ETF USD_USA_Akcje;9694
+Vanguard;LON:VHVE VANGUARD FTSE DEVELOPED WORLD UCITS ETF USD _Globalny_Akcje;9675
+Vanguard;LON:VDEV VANGUARD FTSE DEVELOPED WORLD UCITS _Globalny_Akcje;9527
+Vanguard;LON:VUKG VANGUARD FTSE 100 UCITS ETF_Wielka Brytania_Akcje;9580
+Vanguard;FRA:VWCE VANGUARD FTSE ALLWORLD UCITS ETF USD _Globalny_Akcje;9679
+Vanguard;AMS:VWRL VANGUARD FTSE ALLWORLD UCITS ETF USD _Globalny_Akcje;9505
+Vanguard;AMS:VUSA VANGUARD S&P 500 ETF UCITS _USA_Akcje;9503
+Vanguard;LON:VHYA VANGUARD FTSE ALL-WORLD HIGH DIVIDEND YIELD UCITS _Globalny_Akcje - dywidendy;9677
+Vanguard;FRA:VWCG VANGUARD FTSE DEVELOPED EUROPE UCITS ETF_Europa_Akcje;9681
+Vanguard;AMS:VHYL VANGUARD FTSE ALLWORLD HIGH DIVIDEND YIELD UCITS_Globalny_Akcje - dywidendy;9506
+Vanguard;AMS:VERX VANGUARD FTSE DEVELOPED EUROPE EX UK UCITS ETF EUR_Europa_Akcje;9524
+Vanguard;LON:VUKE VANGUARD FTSE 100 UCITS_Wielka Brytania_Akcje;9509

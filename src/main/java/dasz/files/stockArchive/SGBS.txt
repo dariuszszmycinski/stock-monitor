@@ -31,3 +31,11 @@ SGBS, price= 149.64€ total= 6707.8zł, totalGrowth= 3.89% annualGrowth= 18.68%
 SGBS, price= 149.64€ total= 6707.8zł, totalGrowth= 3.89% annualGrowth= 18.68% profit= 251.4zł 2021-05-31
 SGBS, price= 149.64€ total= 6696.4zł, totalGrowth= 3.72% annualGrowth= 17.63% profit= 240.0zł 2021-06-01
 SGBS, price= 150.27€ total= 6711.5zł, totalGrowth= 3.95% annualGrowth= 18.72% profit= 255.1zł 2021-06-01
+SGBS, price= 149.59€ total= 6678.3zł, totalGrowth= 3.44% annualGrowth= 16.1% profit= 221.9zł 2021-06-02
+SGBS, price= 148.67€ total= 6647.9zł, totalGrowth= 2.97% annualGrowth= 13.55% profit= 191.5zł 2021-06-04
+SGBS, price= 150.46€ total= 6704.8zł, totalGrowth= 3.85% annualGrowth= 16.93% profit= 248.4zł 2021-06-07
+SGBS, price= 149.91€ total= 6694.4zł, totalGrowth= 3.69% annualGrowth= 16.03% profit= 238.0zł 2021-06-08
+SGBS, price= 149.41€ total= 6654.1zł, totalGrowth= 3.06% annualGrowth= 13.14% profit= 197.7zł 2021-06-09
+SGBS, price= 149.64€ total= 6689.8zł, totalGrowth= 3.62% annualGrowth= 15.36% profit= 233.4zł 2021-06-10
+SGBS, price= 149.62€ total= 6691.9zł, totalGrowth= 3.65% annualGrowth= 15.31% profit= 235.5zł 2021-06-11
+SGBS, price= 148.52€ total= 6666.6zł, totalGrowth= 3.26% annualGrowth= 13.22% profit= 210.2zł 2021-06-14

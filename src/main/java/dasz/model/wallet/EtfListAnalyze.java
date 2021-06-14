@@ -40,6 +40,9 @@ public class EtfListAnalyze {
                     case "SPDR":
                         stocks.add(new Spdr(line[1], line[2]));
                         break;
+                    case "Vanguard":
+                        stocks.add(new Vanguard(line[1], Integer.parseInt(line[2])));
+                        break;
                     default:
                         System.err.println(line[0]+"Wrong stock type in etfList.txt file.");
                 }

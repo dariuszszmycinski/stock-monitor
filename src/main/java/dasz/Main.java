@@ -6,6 +6,7 @@ import dasz.model.currency.GbpToPln;
 import dasz.model.currency.UsdToPln;
 import dasz.model.stock.Ishares;
 import dasz.model.stock.Spdr;
+import dasz.model.stock.Vanguard;
 import dasz.model.stock.Xtrackers;
 import dasz.model.wallet.EtfListAnalyze;
 import dasz.model.wallet.Wallet;
@@ -31,9 +32,7 @@ public class Main {
 
     private static class Test{
         public static void main(String[] args) {
-            System.out.println(new Spdr("LON:EMAD","spdr-msci-em-asia-ucits-etf-spya-gy"));
-            System.out.println(new Spdr("EPA:R2US","spdr-russell-2000-us-small-cap-ucits-etf-acc-zprr-gy"));
-            System.out.println(new Spdr("FRA:ZPRS","spdr-msci-world-small-cap-ucits-etf-zprs-gy"));
+            System.out.println(new Vanguard("FRA:VFEA VANGUARD FTSE EMERGING MARKETS UCITS ETF USD _Globalny (EM)_Akcje",9678));
         }
     }
 }
