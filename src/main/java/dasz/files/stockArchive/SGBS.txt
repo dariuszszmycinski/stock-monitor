@@ -39,3 +39,4 @@ SGBS, price= 149.41€ total= 6654.1zł, totalGrowth= 3.06% annualGrowth= 13.14%
 SGBS, price= 149.64€ total= 6689.8zł, totalGrowth= 3.62% annualGrowth= 15.36% profit= 233.4zł 2021-06-10
 SGBS, price= 149.62€ total= 6691.9zł, totalGrowth= 3.65% annualGrowth= 15.31% profit= 235.5zł 2021-06-11
 SGBS, price= 148.52€ total= 6666.6zł, totalGrowth= 3.26% annualGrowth= 13.22% profit= 210.2zł 2021-06-14
+SGBS, price= 148.09€ total= 6712.3zł, totalGrowth= 3.96% annualGrowth= 15.88% profit= 255.9zł 2021-06-15

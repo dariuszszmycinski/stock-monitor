@@ -39,3 +39,4 @@ EUNY, price= 22.68$ pe= 8.64, pb= 1.07 total= 14830.15zł, totalGrowth= 26.43% a
 EUNY, price= 22.7$ pe= 8.61, pb= 1.06 total= 14926.81zł, totalGrowth= 27.25% annualGrowth= 32.29% profit= 3196.94zł 2021-06-10
 EUNY, price= 22.79$ pe= 8.59, pb= 1.06 total= 14971.56zł, totalGrowth= 27.64% annualGrowth= 32.65% profit= 3241.69zł 2021-06-11
 EUNY, price= 22.87$ pe= 8.62, pb= 1.06 total= 15177.41zł, totalGrowth= 29.39% annualGrowth= 34.38% profit= 3447.54zł 2021-06-14
+EUNY, price= 22.99$ pe= 8.62, pb= 1.07 total= 15383.26zł, totalGrowth= 31.15% annualGrowth= 36.33% profit= 3653.39zł 2021-06-15

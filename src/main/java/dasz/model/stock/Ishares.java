@@ -10,7 +10,7 @@ public class Ishares implements Stock {
     private String ticket;
     private int isharesId;
     private double price;
-    private Currency currency;
+    private Currency currency = Currency.USD;
     private double currentPricePLN;
     private double pe;
     private double pb;
@@ -40,7 +40,8 @@ public class Ishares implements Stock {
                 double price = Double.parseDouble(pricePathNoCurrency.replace("<span class=\"header-nav-data\">  ", "").replace(" </span>", ""));
                 this.price = price;
 
-            } catch (NumberFormatException e) {
+            } catch (NumberFormatException | NullPointerException e) {
+                this.price =0;
                 this.pb = 0;
                 this.pe = 0;
             }

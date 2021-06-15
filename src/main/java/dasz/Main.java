@@ -32,7 +32,7 @@ public class Main {
 
     private static class Test{
         public static void main(String[] args) {
-            System.out.println(new Vanguard("FRA:VFEA VANGUARD FTSE EMERGING MARKETS UCITS ETF USD _Globalny (EM)_Akcje",9678));
+            System.out.println(new Ishares("ITWN ISHARES MSCI TAIWAN UCITS ETF USD  _Tajwan_Akcje",251878));
         }
     }
 }
