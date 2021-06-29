@@ -40,3 +40,15 @@ BETA40TR, price= 69.29zł, pe= 17.694, pb= 2.279 total= 10532.08zł, totalGrowth
 BETA40TR, price= 69.23zł, pe= 17.732, pb= 2.281 total= 10522.96zł, totalGrowth= 36.36% annualGrowth= 29.36% profit= 2805.92zł 2021-06-11
 BETA40TR, price= 69.0zł, pe= 17.775, pb= 2.284 total= 10488.0zł, totalGrowth= 35.91% annualGrowth= 28.81% profit= 2770.96zł 2021-06-14
 BETA40TR, price= 69.46zł, pe= 17.75, pb= 2.279 total= 10557.92zł, totalGrowth= 36.81% annualGrowth= 29.46% profit= 2840.88zł 2021-06-15
+BETA40TR, price= 69.06zł, pe= 17.67, pb= 2.272 total= 10497.12zł, totalGrowth= 36.03% annualGrowth= 28.78% profit= 2780.08zł 2021-06-16
+BETA40TR, price= 68.6zł, pe= 17.574, pb= 2.253 total= 10427.2zł, totalGrowth= 35.12% annualGrowth= 27.93% profit= 2710.16zł 2021-06-18
+BETA40TR, price= 68.31zł, pe= 17.413, pb= 2.237 total= 10383.12zł, totalGrowth= 34.55% annualGrowth= 27.36% profit= 2666.08zł 2021-06-20
+BETA40TR, price= 68.23zł, pe= 17.429, pb= 2.231 total= 10370.96zł, totalGrowth= 34.39% annualGrowth= 27.17% profit= 2653.92zł 2021-06-21
+BETA40TR, price= 68.61zł, pe= 16.812, pb= 2.501 total= 10428.72zł, totalGrowth= 35.14% annualGrowth= 27.7% profit= 2711.68zł 2021-06-22
+BETA40TR, price= 69.37zł, pe= 16.933, pb= 2.52 total= 10544.24zł, totalGrowth= 36.64% annualGrowth= 28.82% profit= 2827.2zł 2021-06-23
+BETA40TR, price= 70.42zł, pe= 17.096, pb= 2.548 total= 10703.84zł, totalGrowth= 38.7% annualGrowth= 30.38% profit= 2986.8zł 2021-06-24
+BETA40TR, price= 70.92zł, pe= 17.303, pb= 2.571 total= 10779.84zł, totalGrowth= 39.69% annualGrowth= 31.09% profit= 3062.8zł 2021-06-25
+BETA40TR, price= 70.92zł, pe= 17.303, pb= 2.571 total= 10779.84zł, totalGrowth= 39.69% annualGrowth= 31.09% profit= 3062.8zł 2021-06-25
+BETA40TR, price= 70.92zł, pe= 17.303, pb= 2.571 total= 10779.84zł, totalGrowth= 39.69% annualGrowth= 31.09% profit= 3062.8zł 2021-06-25
+BETA40TR, price= 71.2zł, pe= 17.296, pb= 2.569 total= 10822.4zł, totalGrowth= 40.24% annualGrowth= 31.32% profit= 3105.36zł 2021-06-28
+BETA40TR, price= 70.75zł, pe= 17.233, pb= 2.551 total= 10754.0zł, totalGrowth= 39.35% annualGrowth= 30.56% profit= 3036.96zł 2021-06-29

@@ -32,7 +32,7 @@ public class Main {
 
     private static class Test{
         public static void main(String[] args) {
-            System.out.println(new Ishares("ITWN ISHARES MSCI TAIWAN UCITS ETF USD  _Tajwan_Akcje",251878));
+            System.out.println(new Ishares("ITKY",251879));
         }
     }
 }
