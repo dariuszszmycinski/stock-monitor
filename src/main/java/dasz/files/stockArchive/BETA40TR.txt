@@ -52,3 +52,14 @@ BETA40TR, price= 70.92zł, pe= 17.303, pb= 2.571 total= 10779.84zł, totalGrowth
 BETA40TR, price= 70.92zł, pe= 17.303, pb= 2.571 total= 10779.84zł, totalGrowth= 39.69% annualGrowth= 31.09% profit= 3062.8zł 2021-06-25
 BETA40TR, price= 71.2zł, pe= 17.296, pb= 2.569 total= 10822.4zł, totalGrowth= 40.24% annualGrowth= 31.32% profit= 3105.36zł 2021-06-28
 BETA40TR, price= 70.75zł, pe= 17.233, pb= 2.551 total= 10754.0zł, totalGrowth= 39.35% annualGrowth= 30.56% profit= 3036.96zł 2021-06-29
+BETA40TR, price= 70.11zł, pe= 17.141, pb= 2.533 total= 10656.72zł, totalGrowth= 38.09% annualGrowth= 29.52% profit= 2939.68zł 2021-06-30
+BETA40TR, price= 69.0zł, pe= 17.027, pb= 2.503 total= 10488.0zł, totalGrowth= 35.91% annualGrowth= 27.71% profit= 2770.96zł 2021-07-02
+BETA40TR, price= 69.91zł, pe= 17.212, pb= 2.514 total= 10626.32zł, totalGrowth= 37.7% annualGrowth= 28.79% profit= 2909.28zł 2021-07-07
+BETA40TR, price= 69.57zł, pe= 17.104, pb= 2.492 total= 10574.64zł, totalGrowth= 37.03% annualGrowth= 28.22% profit= 2857.6zł 2021-07-08
+BETA40TR, price= 69.6zł, pe= 17.167, pb= 2.487 total= 10579.2zł, totalGrowth= 37.09% annualGrowth= 28.03% profit= 2862.16zł 2021-07-12
+BETA40TR, price= 70.2zł, pe= 17.112, pb= 2.492 total= 10670.4zł, totalGrowth= 38.27% annualGrowth= 28.74% profit= 2953.36zł 2021-07-15
+BETA40TR, price= 69.61zł, pe= 17.046, pb= 2.478 total= 10580.72zł, totalGrowth= 37.11% annualGrowth= 27.76% profit= 2863.68zł 2021-07-17
+BETA40TR, price= 69.61zł, pe= 17.046, pb= 2.478 total= 10580.72zł, totalGrowth= 37.11% annualGrowth= 27.64% profit= 2863.68zł 2021-07-19
+BETA40TR, price= 69.61zł, pe= 17.046, pb= 2.478 total= 10580.72zł, totalGrowth= 37.11% annualGrowth= 27.64% profit= 2863.68zł 2021-07-19
+BETA40TR, price= 69.61zł, pe= 17.046, pb= 2.478 total= 10580.72zł, totalGrowth= 37.11% annualGrowth= 27.64% profit= 2863.68zł 2021-07-19
+BETA40TR, price= 69.55zł, pe= 16.902, pb= 2.469 total= 10571.6zł, totalGrowth= 36.99% annualGrowth= 27.17% profit= 2854.56zł 2021-07-26

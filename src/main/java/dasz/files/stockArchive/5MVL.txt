@@ -52,3 +52,14 @@
 5MVL, price= 0.0$ pe= 0.0, pb= 0.0 total= 0.0zł, totalGrowth= -100.0% annualGrowth= -986.49% profit= -14279.49zł 2021-06-25
 5MVL, price= 47.74$ pe= 10.57, pb= 1.03 total= 14601.87zł, totalGrowth= 2.26% annualGrowth= 20.62% profit= 322.38zł 2021-06-28
 5MVL, price= 47.64$ pe= 10.61, pb= 1.03 total= 14624.55zł, totalGrowth= 2.42% annualGrowth= 21.54% profit= 345.06zł 2021-06-29
+5MVL, price= 47.33$ pe= 10.67, pb= 1.04 total= 14554.89zł, totalGrowth= 1.93% annualGrowth= 16.77% profit= 275.4zł 2021-06-30
+5MVL, price= 47.21$ pe= 10.59, pb= 1.03 total= 14578.38zł, totalGrowth= 2.09% annualGrowth= 17.34% profit= 298.89zł 2021-07-02
+5MVL, price= 46.97$ pe= 10.56, pb= 1.03 total= 14601.87zł, totalGrowth= 2.26% annualGrowth= 16.83% profit= 322.38zł 2021-07-07
+5MVL, price= 46.73$ pe= 10.56, pb= 1.03 total= 14537.88zł, totalGrowth= 1.81% annualGrowth= 13.21% profit= 258.39zł 2021-07-08
+5MVL, price= 46.02$ pe= 10.37, pb= 1.01 total= 14314.32zł, totalGrowth= 0.24% annualGrowth= 1.62% profit= 34.83zł 2021-07-12
+5MVL, price= 46.37$ pe= 10.43, pb= 1.02 total= 14511.96zł, totalGrowth= 1.63% annualGrowth= 10.44% profit= 232.47zł 2021-07-15
+5MVL, price= 46.89$ pe= 10.42, pb= 1.0 total= 14748.48zł, totalGrowth= 3.28% annualGrowth= 20.29% profit= 468.99zł 2021-07-17
+5MVL, price= 46.58$ pe= 10.42, pb= 1.0 total= 14652.09zł, totalGrowth= 2.61% annualGrowth= 15.62% profit= 372.6zł 2021-07-19
+5MVL, price= 46.58$ pe= 10.42, pb= 1.0 total= 14650.47zł, totalGrowth= 2.6% annualGrowth= 15.56% profit= 370.98zł 2021-07-19
+5MVL, price= 46.58$ pe= 10.42, pb= 1.0 total= 14651.28zł, totalGrowth= 2.6% annualGrowth= 15.56% profit= 371.79zł 2021-07-19
+5MVL, price= 45.57$ pe= 10.2, pb= 1.0 total= 14354.01zł, totalGrowth= 0.52% annualGrowth= 2.79% profit= 74.52zł 2021-07-26

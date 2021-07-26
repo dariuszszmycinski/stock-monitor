@@ -12,6 +12,7 @@ public class WalletStock {
     private double totalGrowth;
     private double annualGrowth;
     private double profit;
+    private double dividend;
 
     public WalletStock(Stock stock, int quantity, double basePricePLN ,LocalDate bought) {
         this.stock = stock;
@@ -23,6 +24,19 @@ public class WalletStock {
         this.annualGrowth = (double) Math.round((totalGrowth*365/ ChronoUnit.DAYS.between(bought, LocalDate.now()))*100)/100;
         this.profit = (double) Math.round((total-basePricePLN)*100)/100;
     }
+
+    public WalletStock(Stock stock, int quantity, double basePricePLN ,LocalDate bought, double dividend) {
+        this.stock = stock;
+        this.bought = bought;
+        this.basePricePLN = basePricePLN;
+        this.quantity = quantity;
+        this.total = (double)Math.round((quantity * stock.getCurrentPricePLN())*100)/100;
+        this.totalGrowth = (double) Math.round(((total-basePricePLN+dividend)/basePricePLN)*10000)/100;
+        this.annualGrowth = (double) Math.round((totalGrowth*365/ ChronoUnit.DAYS.between(bought, LocalDate.now()))*100)/100;
+        this.profit = (double) Math.round((total-basePricePLN+dividend)*100)/100;
+    }
+
+
 
     public double getTotal() {
         return total;

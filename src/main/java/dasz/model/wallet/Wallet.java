@@ -20,7 +20,11 @@ public class Wallet {
                 String[] line = scanner.nextLine().split(";");
                 switch (line[0]) {
                     case "Ishares":
-                        stocks.add(new WalletStock(new Ishares(line[1], Integer.parseInt(line[2])),Integer.parseInt(line[3]), Double.parseDouble(line[4]), LocalDate.parse(line[5])));
+                        if (line.length==7){
+                            stocks.add(new WalletStock(new Ishares(line[1], Integer.parseInt(line[2])),Integer.parseInt(line[3]), Double.parseDouble(line[4]), LocalDate.parse(line[5]), Double.parseDouble(line[6])));
+                        }else {
+                            stocks.add(new WalletStock(new Ishares(line[1], Integer.parseInt(line[2])),Integer.parseInt(line[3]), Double.parseDouble(line[4]), LocalDate.parse(line[5])));
+                        }
                         break;
                     case "Beta40Tr":
                         stocks.add(new WalletStock(new Beta40Tr(),Integer.parseInt(line[1]), Double.parseDouble(line[2]), LocalDate.parse(line[3])));

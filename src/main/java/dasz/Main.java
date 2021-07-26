@@ -4,10 +4,7 @@ import dasz.files.WalletArchive;
 import dasz.model.currency.EurToPln;
 import dasz.model.currency.GbpToPln;
 import dasz.model.currency.UsdToPln;
-import dasz.model.stock.Ishares;
-import dasz.model.stock.Spdr;
-import dasz.model.stock.Vanguard;
-import dasz.model.stock.Xtrackers;
+import dasz.model.stock.*;
 import dasz.model.wallet.EtfListAnalyze;
 import dasz.model.wallet.Wallet;
 
@@ -32,7 +29,7 @@ public class Main {
 
     private static class Test{
         public static void main(String[] args) {
-            System.out.println(new Ishares("ITKY",251879));
+            new WisdomTree("WISDOMTREE GLOBAL QUALITY DIVIDEND GROWTH UCITS","wisdomtree-global-quality-dividend-growth-ucits-etf-usd-acc");
         }
     }
 }
