@@ -63,3 +63,6 @@ SGBS, price= 147.67€ total= 6768.9zł, totalGrowth= 4.84% annualGrowth= 14.13%
 SGBS, price= 147.67€ total= 6768.0zł, totalGrowth= 4.83% annualGrowth= 14.1% profit= 311.6zł 2021-07-19
 SGBS, price= 147.67€ total= 6768.0zł, totalGrowth= 4.83% annualGrowth= 14.1% profit= 311.6zł 2021-07-19
 SGBS, price= 147.29€ total= 6745.0zł, totalGrowth= 4.47% annualGrowth= 12.36% profit= 288.6zł 2021-07-26
+SGBS, price= 147.13€ total= 6762.1zł, totalGrowth= 4.73% annualGrowth= 12.98% profit= 305.7zł 2021-07-27
+SGBS, price= 147.13€ dividends= 0.0 total= 6762.1zł, totalGrowth= 4.73% annualGrowth= 12.98% profit= 305.7zł 2021-07-27
+SGBS, price= 147.13€ dividends= 0.0 total= 6762.1zł, totalGrowth= 4.73% annualGrowth= 12.98% profit= 305.7zł 2021-07-27

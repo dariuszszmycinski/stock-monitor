@@ -34,6 +34,7 @@ public class WalletStock {
         this.totalGrowth = (double) Math.round(((total-basePricePLN+dividend)/basePricePLN)*10000)/100;
         this.annualGrowth = (double) Math.round((totalGrowth*365/ ChronoUnit.DAYS.between(bought, LocalDate.now()))*100)/100;
         this.profit = (double) Math.round((total-basePricePLN+dividend)*100)/100;
+        this.dividend = dividend;
     }
 
 
@@ -48,6 +49,6 @@ public class WalletStock {
 
     @Override
     public String toString() {
-        return stock.toString()+" total= " + getTotal() + "zł, totalGrowth= "+totalGrowth+"% "+"annualGrowth= "+annualGrowth+"%"+" profit= "+profit+"zł";
+        return stock.toString()+ " dividends= "+dividend+" total= " + getTotal() + "zł, totalGrowth= "+totalGrowth+"% "+"annualGrowth= "+annualGrowth+"%"+" profit= "+profit+"zł";
     }
 }

@@ -1,0 +1,9 @@
+BETA40TR, price= 69.55zł, pe= 16.898, pb= 2.468 dividends= 0.0 total= 10571.6zł, totalGrowth= 36.99% annualGrowth= 27.11% profit= 2854.56zł
+EUNY, price= 21.14$ pe= 8.38, pb= 1.05 dividends= 757.4 total= 14746.02zł, totalGrowth= 32.17% annualGrowth= 33.08% profit= 3773.55zł
+SGBS, price= 147.13€ dividends= 0.0 total= 6762.1zł, totalGrowth= 4.73% annualGrowth= 12.98% profit= 305.7zł
+ITKY, price= 11.68$ pe= 7.59, pb= 1.03 dividends= 0.0 total= 5644.48zł, totalGrowth= -1.98% annualGrowth= -10.32% profit= -114.08zł
+5MVL, price= 44.99$ pe= 10.28, pb= 1.0 dividends= 0.0 total= 14201.73zł, totalGrowth= -0.54% annualGrowth= -2.86% profit= -77.76zł
+$ -> zł = 3.897
+€ -> zł = 4.596
+£ -> zł = 5.3822
+Total wallet value: 51925.93zł
