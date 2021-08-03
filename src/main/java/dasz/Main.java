@@ -23,13 +23,13 @@ public class Main {
     private static class Analyze{
         public static void main(String[] args) {
             EtfListAnalyze etfListAnalyze = new EtfListAnalyze(new File("src/main/java/dasz/files/walletCurrent/etfList.txt"));
-            etfListAnalyze.printAll();
+            etfListAnalyze.printAndSaveAll();
         }
     }
 
     private static class Test{
         public static void main(String[] args) {
-            new WisdomTree("WISDOMTREE GLOBAL QUALITY DIVIDEND GROWTH UCITS","wisdomtree-global-quality-dividend-growth-ucits-etf-usd-acc");
+            new Xtrackers("Xtrackers;FRA:XPQP XTRACKERS MSCI PHILIPPINES UCITS ETF 1C _Filipiny_Akcje","LU0592215403");
         }
     }
 }

@@ -6,5 +6,6 @@ public interface Stock {
     public String getTicket();
     public double getCurrentPricePLN();
     public double getPe();
+    public double getPb ();
 
 }

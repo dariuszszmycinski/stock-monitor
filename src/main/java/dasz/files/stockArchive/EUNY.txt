@@ -66,3 +66,6 @@ EUNY, price= 21.22$ pe= 8.34, pb= 1.02 total= 14771.08zł, totalGrowth= 32.38% a
 EUNY, price= 21.14$ pe= 8.38, pb= 1.05 total= 14742.44zł, totalGrowth= 32.14% annualGrowth= 33.05% profit= 3769.97zł 2021-07-27
 EUNY, price= 21.14$ pe= 8.38, pb= 1.05 dividends= 0.0 total= 14742.44zł, totalGrowth= 32.14% annualGrowth= 33.05% profit= 3769.97zł 2021-07-27
 EUNY, price= 21.14$ pe= 8.38, pb= 1.05 dividends= 757.4 total= 14746.02zł, totalGrowth= 32.17% annualGrowth= 33.08% profit= 3773.55zł 2021-07-27
+EUNY, price= 21.35$ pe= 8.24, pb= 1.04 dividends= 757.4 total= 14658.31zł, totalGrowth= 31.42% annualGrowth= 32.03% profit= 3685.84zł 2021-07-30
+EUNY, price= 21.21$ pe= 8.29, pb= 1.05 dividends= 757.4 total= 14561.65zł, totalGrowth= 30.6% annualGrowth= 30.94% profit= 3589.18zł 2021-08-02
+EUNY, price= 21.44$ pe= 8.33, pb= 1.05 dividends= 757.4 total= 14697.69zł, totalGrowth= 31.76% annualGrowth= 32.02% profit= 3725.22zł 2021-08-03

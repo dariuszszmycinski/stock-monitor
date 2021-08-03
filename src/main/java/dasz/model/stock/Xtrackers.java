@@ -80,6 +80,8 @@ public class Xtrackers implements Stock {
         }
         this.currentPricePLN = (double) Math.round((currency.getValue() * price) * 100) / 100;
         System.out.println(toString());
+
+
     }
 
     @Override
@@ -99,5 +101,10 @@ public class Xtrackers implements Stock {
     @Override
     public double getPe() {
         return pe;
+    }
+
+    @Override
+    public double getPb() {
+        return 0;
     }
 }

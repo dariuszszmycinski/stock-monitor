@@ -3,12 +3,14 @@ package dasz.files;
 import dasz.model.currency.EurToPln;
 import dasz.model.currency.GbpToPln;
 import dasz.model.currency.UsdToPln;
+import dasz.model.stock.Stock;
 import dasz.model.stock.WalletStock;
 import dasz.model.wallet.Wallet;
 
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
+import java.util.ArrayList;
 
 public class WalletArchive {
 
@@ -42,5 +44,20 @@ public class WalletArchive {
             e.printStackTrace();
         }
     }
+
+    public static void saveEtfListAnalyze(ArrayList<Stock> stocks){
+        String fileToWrite = "src/main/java/dasz/files/etfListAnalyze/analyze "+ LocalDate.now() +".txt";
+        try {
+            FileWriter myWriter = new FileWriter(fileToWrite, true);
+            for (Stock s:stocks) {
+                myWriter.write(s.getTicket().split(" ")[0]+"|"+s.getPe()+"|"+s.getPb()+"\n");
+            }
+            myWriter.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
 
 }

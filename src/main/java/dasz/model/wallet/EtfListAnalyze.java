@@ -1,5 +1,6 @@
 package dasz.model.wallet;
 
+import dasz.files.WalletArchive;
 import dasz.model.stock.*;
 
 import java.io.File;
@@ -56,13 +57,13 @@ public class EtfListAnalyze {
         return stocks;
     }
 
-    public void printAll() {
+    public void printAndSaveAll() {
         stocks.sort(Comparator.comparing(Stock::getPe));
         System.out.println("-----Sorted-----");
+        WalletArchive.saveEtfListAnalyze(stocks);
         for (Stock s : stocks) {
             System.out.println(s);
         }
-
     }
 
 }

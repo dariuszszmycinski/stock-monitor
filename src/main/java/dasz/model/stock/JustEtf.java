@@ -42,4 +42,8 @@ public class JustEtf implements Stock {
     public double getPe(){
         return 0;
     }
+    @Override
+    public double getPb() {
+        return 0;
+    }
 }

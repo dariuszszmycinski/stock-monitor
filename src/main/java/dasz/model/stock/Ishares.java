@@ -72,4 +72,8 @@ public class Ishares implements Stock {
     public double getPe() {
         return pe;
     }
+    @Override
+    public double getPb() {
+        return pb;
+    }
 }
