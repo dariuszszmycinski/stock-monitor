@@ -1,5 +1,6 @@
 package dasz;
 
+
 import dasz.files.WalletArchive;
 import dasz.model.currency.EurToPln;
 import dasz.model.currency.GbpToPln;
@@ -29,7 +30,11 @@ public class Main {
 
     private static class Test{
         public static void main(String[] args) {
-            new Xtrackers("Xtrackers;FRA:XPQP XTRACKERS MSCI PHILIPPINES UCITS ETF 1C _Filipiny_Akcje","LU0592215403");
+            System.out.println(new Stooq("Amica","amc",1));
+            System.out.println(new Stooq("Asbis","asb",2));
+            System.out.println(new Stooq("GPW","gpw",3));
+            System.out.println(new Stooq("Kernel","ker",2));
+            System.out.println(new Stooq("XTB","xtb",2));
         }
     }
 }

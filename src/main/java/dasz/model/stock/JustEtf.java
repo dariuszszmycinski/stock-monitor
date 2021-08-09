@@ -23,6 +23,7 @@ public class JustEtf implements Stock {
             e.printStackTrace();
         }
         this.currentPricePLN=(double)Math.round((EurToPln.get() * priceEUR)*100)/100;
+        System.out.println(this.toString());
     }
 
     @Override

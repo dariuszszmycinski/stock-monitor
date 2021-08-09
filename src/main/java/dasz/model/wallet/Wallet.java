@@ -32,6 +32,9 @@ public class Wallet {
                     case "JustEtf":
                         stocks.add(new WalletStock(new JustEtf(line[1], line[2]),Integer.parseInt(line[3]), Double.parseDouble(line[4]), LocalDate.parse(line[5])));
                         break;
+                    case "Stooq":
+                        stocks.add(new WalletStock(new Stooq(line[1], line[2], Integer.parseInt(line[3])),Integer.parseInt(line[4]), Double.parseDouble(line[5]), LocalDate.parse(line[6])));
+                        break;
                     default:
                         System.err.println("Wrong stock type in wallet.txt file.");
                 }
