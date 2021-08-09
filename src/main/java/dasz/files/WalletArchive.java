@@ -38,7 +38,7 @@ public class WalletArchive {
         String fileToWrite = "src/main/java/dasz/files/stockArchive/"+stock.getTicket()+".txt";
         try {
             FileWriter myWriter = new FileWriter(fileToWrite, true);
-            myWriter.write(stock.toString()+" "+LocalDate.now()+"\n");
+            myWriter.write(stock +" "+LocalDate.now()+"\n");
             myWriter.close();
         } catch (IOException e) {
             e.printStackTrace();

@@ -69,3 +69,7 @@
 5MVL, price= 45.33$ pe= 9.96, pb= 0.97 dividends= 0.0 total= 14084.28zł, totalGrowth= -1.37% annualGrowth= -6.95% profit= -195.21zł 2021-07-30
 5MVL, price= 44.82$ pe= 10.06, pb= 0.98 dividends= 0.0 total= 13923.9zł, totalGrowth= -2.49% annualGrowth= -12.12% profit= -355.59zł 2021-08-02
 5MVL, price= 45.47$ pe= 10.09, pb= 0.99 dividends= 0.0 total= 14104.53zł, totalGrowth= -1.23% annualGrowth= -5.91% profit= -174.96zł 2021-08-03
+5MVL, price= 45.6$ pe= 9.99, pb= 0.98 dividends= 0.0 total= 14162.85zł, totalGrowth= -0.82% annualGrowth= -3.89% profit= -116.64zł 2021-08-04
+5MVL, price= 45.89$ pe= 10.16, pb= 0.99 dividends= 0.0 total= 14274.63zł, totalGrowth= -0.03% annualGrowth= -0.14% profit= -4.86zł 2021-08-05
+5MVL, price= 45.57$ pe= 10.16, pb= 0.99 dividends= 0.0 total= 14200.92zł, totalGrowth= -0.55% annualGrowth= -2.54% profit= -78.57zł 2021-08-06
+5MVL, price= 45.28$ pe= 10.14, pb= 0.99 dividends= 0.0 total= 14247.09zł, totalGrowth= -0.23% annualGrowth= -1.02% profit= -32.4zł 2021-08-09
