@@ -1,0 +1,5 @@
+Kernel, price= 55.2zł, pe= 3.1, pb= 0.7 dividends= 0.0 total= 1048.8zł, totalGrowth= 2.6% annualGrowth= 9.223372036854776E16% profit= 26.6zł 2021-08-09
+Kernel, price= 55.2zł, pe= 3.1, pb= 0.7 dividends= 0.0 total= 1048.8zł, totalGrowth= 2.6% annualGrowth= 9.223372036854776E16% profit= 26.6zł 2021-08-09
+Kernel, price= 55.2zł, pe= 3.1, pb= 0.7 dividends= 0.0 total= 1048.8zł, totalGrowth= 2.6% annualGrowth= 9.223372036854776E16% profit= 26.6zł 2021-08-09
+Kernel, price= 55.2zł, pe= 3.1, pb= 0.7 dividends= 0.0 total= 1048.8zł, totalGrowth= 2.6% annualGrowth= 9.223372036854776E16% profit= 26.6zł 2021-08-09
+Kernel, price= 56.7zł, pe= 3.1, pb= 0.71 dividends= 0.0 total= 1077.3zł, totalGrowth= 5.39% annualGrowth= 1967.35% profit= 55.1zł 2021-08-10

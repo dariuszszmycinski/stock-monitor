@@ -78,3 +78,4 @@ SGBS, price= 142.52€ dividends= 0.0 total= 6503.8zł, totalGrowth= 0.73% annua
 SGBS, price= 142.52€ dividends= 0.0 total= 6503.8zł, totalGrowth= 0.73% annualGrowth= 1.83% profit= 47.4zł 2021-08-09
 SGBS, price= 142.52€ dividends= 0.0 total= 6503.8zł, totalGrowth= 0.73% annualGrowth= 1.83% profit= 47.4zł 2021-08-09
 SGBS, price= 142.52€ dividends= 0.0 total= 6503.8zł, totalGrowth= 0.73% annualGrowth= 1.83% profit= 47.4zł 2021-08-09
+SGBS, price= 142.33€ dividends= 0.0 total= 6502.5zł, totalGrowth= 0.71% annualGrowth= 1.76% profit= 46.1zł 2021-08-10

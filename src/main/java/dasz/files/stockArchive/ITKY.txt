@@ -78,3 +78,4 @@ ITKY, price= 12.52$ pe= 8.13, pb= 1.13 dividends= 0.0 total= 6022.68zł, totalGr
 ITKY, price= 12.52$ pe= 8.13, pb= 1.13 dividends= 0.0 total= 6022.68zł, totalGrowth= 4.59% annualGrowth= 20.18% profit= 264.12zł 2021-08-09
 ITKY, price= 12.52$ pe= 8.13, pb= 1.13 dividends= 0.0 total= 6022.68zł, totalGrowth= 4.59% annualGrowth= 20.18% profit= 264.12zł 2021-08-09
 ITKY, price= 12.52$ pe= 8.13, pb= 1.13 dividends= 0.0 total= 6022.68zł, totalGrowth= 4.59% annualGrowth= 20.18% profit= 264.12zł 2021-08-09
+ITKY, price= 12.4$ pe= 8.13, pb= 1.13 dividends= 0.0 total= 5985.48zł, totalGrowth= 3.94% annualGrowth= 17.12% profit= 226.92zł 2021-08-10

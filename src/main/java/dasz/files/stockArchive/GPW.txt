@@ -1,0 +1,4 @@
+GPW, price= 45.28zł, pe= 11.8, pb= 1.97 dividends= 0.0 total= 1086.72zł, totalGrowth= 0.55% annualGrowth= 9.223372036854776E16% profit= 5.92zł 2021-08-09
+GPW, price= 45.28zł, pe= 11.8, pb= 1.97 dividends= 0.0 total= 1086.72zł, totalGrowth= 0.55% annualGrowth= 9.223372036854776E16% profit= 5.92zł 2021-08-09
+GPW, price= 45.28zł, pe= 11.8, pb= 1.97 dividends= 0.0 total= 1086.72zł, totalGrowth= 0.55% annualGrowth= 9.223372036854776E16% profit= 5.92zł 2021-08-09
+GPW, price= 45.3zł, pe= 11.8, pb= 1.97 dividends= 0.0 total= 1087.2zł, totalGrowth= 0.59% annualGrowth= 215.35% profit= 6.4zł 2021-08-10

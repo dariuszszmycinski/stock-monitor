@@ -78,3 +78,4 @@ BETA40TR, price= 71.81zł, pe= 16.753, pb= 2.519 dividends= 0.0 total= 10915.12z
 BETA40TR, price= 71.81zł, pe= 16.753, pb= 2.519 dividends= 0.0 total= 10915.12zł, totalGrowth= 41.44% annualGrowth= 29.6% profit= 3198.08zł 2021-08-09
 BETA40TR, price= 71.81zł, pe= 16.753, pb= 2.519 dividends= 0.0 total= 10915.12zł, totalGrowth= 41.44% annualGrowth= 29.6% profit= 3198.08zł 2021-08-09
 BETA40TR, price= 71.81zł, pe= 16.728, pb= 2.516 dividends= 0.0 total= 10915.12zł, totalGrowth= 41.44% annualGrowth= 29.6% profit= 3198.08zł 2021-08-09
+BETA40TR, price= 72.4zł, pe= 16.666, pb= 2.522 dividends= 0.0 total= 11004.8zł, totalGrowth= 42.6% annualGrowth= 30.37% profit= 3287.76zł 2021-08-10
