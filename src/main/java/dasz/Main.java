@@ -11,7 +11,7 @@ import dasz.model.wallet.Wallet;
 
 import java.io.File;
 
-//project abadoned because of constant source sides changes, besides of lack of $$$
+//project abadoned because of constant source sides changes, besides of lack of $
 
 public class Main {
     public static void main(String[] args) {
