@@ -14,6 +14,7 @@ public class Beta40Tr implements Stock {
     public Beta40Tr() {
         try {
             Document doc = Jsoup.connect("https://stooq.pl/q/?s=etfbm40tr.pl").get();
+            System.out.println(doc.title());
             String price = doc.select("#f13 > b").toString().split("id=\"aq_etfbm40tr.pl_c2")[1].substring(4, 9);
             this.currentPricePLN = Double.parseDouble(price);
         } catch (IOException e) {

@@ -5,7 +5,7 @@ import org.jsoup.nodes.Document;
 
 import java.io.IOException;
 
-public class Stooq implements Stock{
+public class Stooq implements Stock {
     private String ticket;
     private String stooqId;
     private double currentPricePLN;
@@ -18,21 +18,21 @@ public class Stooq implements Stock{
         this.stooqId = stooqId;
         this.sitePriceLinkId = sitePriceLinkId;
         try {
-            Document doc = Jsoup.connect("https://stooq.pl/q/?s="+stooqId).get();
-            String price = doc.select("#aq_"+stooqId+"_c"+sitePriceLinkId).toString().replaceAll("<",">").split(">")[2];
+            Document doc = Jsoup.connect("https://stooq.pl/q/?s=" + stooqId).get();
+            String price = doc.select("#aq_" + stooqId + "_c" + sitePriceLinkId).toString().replaceAll("<", ">").split(">")[2];
             this.currentPricePLN = Double.parseDouble(price);
         } catch (IOException e) {
             e.printStackTrace();
         }
         try {
-            Document doc = Jsoup.connect("https://stooq.pl/q/?s="+stooqId+"_pe").get();
-            this.pe = Double.parseDouble(doc.select("#aq_"+stooqId+"_pe_c2").toString().replaceAll("<",">").split(">")[2]);
+            Document doc = Jsoup.connect("https://stooq.pl/q/?s=" + stooqId + "_pe").get();
+            this.pe = Double.parseDouble(doc.select("#aq_" + stooqId + "_pe_c2").toString().replaceAll("<", ">").split(">")[2]);
         } catch (IOException e) {
             e.printStackTrace();
         }
         try {
-            Document doc = Jsoup.connect("https://stooq.pl/q/?s="+stooqId+"_pb").get();
-            this.pb = Double.parseDouble(doc.select("#aq_"+stooqId+"_pb_c2").toString().replaceAll("<",">").split(">")[2]);
+            Document doc = Jsoup.connect("https://stooq.pl/q/?s=" + stooqId + "_pb").get();
+            this.pb = Double.parseDouble(doc.select("#aq_" + stooqId + "_pb_c2").toString().replaceAll("<", ">").split(">")[2]);
         } catch (IOException e) {
             e.printStackTrace();
         }
